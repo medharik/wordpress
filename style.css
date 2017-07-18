@@ -1,0 +1,23 @@
+/* Theme Name: Harik mohamed
+Template: harik mohamed;
+ */
+ body{
+ 	background: #EEE;
+ }
+
+.menu{
+display: -webkit-flex;
+display: -moz-flex;
+display: -ms-flex;
+display: -o-flex;
+display: flex;
+list-style: none;
+width: 400px;
+margin: auto;
+
+}
+
+.menu li{
+padding: 5px ;
+border:1px solid black;
+}
